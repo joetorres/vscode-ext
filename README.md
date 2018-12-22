@@ -7,7 +7,7 @@ In Windows run:
 
 In linux run:
 
-```vscode-extensions.sh```
+``` ./vscode-extensions.sh```
 
 
 
